@@ -1,5 +1,5 @@
 {
-  "name": "json-schema-generator",
+  "name": "@edsilv/json-schema-generator",
   "version": "1.1.16",
   "description": "JSON schema generator based on draft-v4.",
   "main": "./index.js",
